@@ -365,8 +365,6 @@ LoanPrediction_ML/
 ├── images/
 │   ├── confusion_matrix.png
 │   ├── roc_curve.png
-│   ├── decision_tree_DT-1.png
-│   ├── decision_tree_DT-2.png
 │
 ├── README.md
 ├── requirements.txt
