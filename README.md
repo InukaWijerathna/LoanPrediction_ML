@@ -1,4 +1,4 @@
-Loan Approval & Financial Risk Prediction Using Machine Learning
+# Loan Approval & Financial Risk Prediction Using Machine Learning
 
 This is a Machine Learning project focused on helping financial institutions make safer and more informed lending decisions.
 
@@ -11,7 +11,7 @@ The system was developed using Python and Scikit-learn, with a strong focus on d
 
 ---
 
-# Project Overview
+## Project Overview
 
 Financial institutions process large numbers of loan applications every day. Incorrect lending decisions can lead to:
 
